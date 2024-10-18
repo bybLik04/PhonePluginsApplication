@@ -1,0 +1,13 @@
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\EmployeesNewLoaderPlugin.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\EmployeesNewLoaderPlugin.pdb
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\NLog.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\PhoneApp.exe
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\PhoneApp.pdb
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\PhoneApp.exe.config
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\bin\Debug\NLog.xml
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\obj\Debug\EmployeesNewLoaderPlugin.csproj.AssemblyReference.cache
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\obj\Debug\EmployeesNewLoaderPlugin.csproj.CoreCompileInputs.cache
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\obj\Debug\Employee.7DC637B9.Up2Date
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\obj\Debug\EmployeesNewLoaderPlugin.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\NewUsersLoaderPlugin\obj\Debug\EmployeesNewLoaderPlugin.pdb
