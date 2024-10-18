@@ -9,10 +9,16 @@ namespace PhoneApp.Domain.DTO
     public partial class EmployeesDTO : DataTransferObject
     {
         public string Name { get; set; }
-        private Dictionary<DateTime, string> _phones = new Dictionary<DateTime, string>();
         public string Phone
         {
             get { return _phones.Any() ? _phones.LastOrDefault().Value : "-"; }
+            set
+            {
+                if (!String.IsNullOrEmpty(value))
+                {
+                    _phones.Add(DateTime.Now, value);
+                }
+            }
         }
         public void AddPhone(string phone)
         {
@@ -23,5 +29,7 @@ namespace PhoneApp.Domain.DTO
 
             _phones.Add(DateTime.Now, phone);
         }
+
+        private Dictionary<DateTime, string> _phones = new Dictionary<DateTime, string>();
     }
 }
