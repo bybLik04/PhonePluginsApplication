@@ -6,22 +6,22 @@ using System.Threading.Tasks;
 
 namespace PhoneApp.Domain.DTO
 {
-  public partial class EmployeesDTO : DataTransferObject
-  {
-    public string Name { get; set; }
-    public string Phone {
-      get { return _phones.Any() ? _phones.LastOrDefault().Value : "-"; } 
-    }
-    public void AddPhone(string phone)
+    public partial class EmployeesDTO : DataTransferObject
     {
-      if(String.IsNullOrEmpty(phone))
-      {
-        throw new Exception("Phone must be provided!");
-      }
+        public string Name { get; set; }
+        private Dictionary<DateTime, string> _phones = new Dictionary<DateTime, string>();
+        public string Phone
+        {
+            get { return _phones.Any() ? _phones.LastOrDefault().Value : "-"; }
+        }
+        public void AddPhone(string phone)
+        {
+            if (String.IsNullOrEmpty(phone))
+            {
+                throw new Exception("Phone must be provided!");
+            }
 
-      _phones.Add(DateTime.Now, phone);
+            _phones.Add(DateTime.Now, phone);
+        }
     }
-
-    private Dictionary<DateTime, string> _phones = new Dictionary<DateTime, string>();
-  }
 }

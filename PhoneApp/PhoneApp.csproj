@@ -64,15 +64,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="EmployeesLoader.Plugin.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="EmployeesViewer.Plugin.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="EmployeesViewer.Plugin.pdb">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="EmployeesLoader.Plugin.dll" />
+    <Content Include="EmployeesViewer.Plugin.dll" />
+    <Content Include="EmployeesViewer.Plugin.pdb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

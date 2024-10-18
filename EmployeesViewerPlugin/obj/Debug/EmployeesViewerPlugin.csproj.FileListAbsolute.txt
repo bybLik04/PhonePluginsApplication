@@ -15,3 +15,17 @@ C:\Users\dmitr\source\repos\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugi
 C:\Users\dmitr\source\repos\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.pdb
 C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\EmployeesViewer.Plugin.dll
 C:\Users\dmitr\source\repos\EmployeesViewerPlugin\bin\Debug\EmployeesViewer.Plugin.pdb
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\EmployeesViewerPlugin.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\EmployeesViewerPlugin.pdb
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\NLog.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\PhoneApp.exe
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\PhoneApp.pdb
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\PhoneApp.exe.config
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\NLog.xml
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.csproj.AssemblyReference.cache
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\obj\Debug\Employee.D858B83B.Up2Date
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.dll
+C:\Users\rihlo\Source\Repos\PhonePluginsApplication\EmployeesViewerPlugin\obj\Debug\EmployeesViewerPlugin.pdb
